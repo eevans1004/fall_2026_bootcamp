@@ -1,0 +1,4 @@
+  File "C:\Users\tamar\Documents\TheoWAF\Cloud_Proving_Grounds\cloudfundamentals\fall_2026_bootcamp\live-server-diagnostics\diagnostics\python\system_info.py", line 4
+    Import shutil
+    ^^^^^^
+SyntaxError: invalid syntax. Did you mean 'import'?

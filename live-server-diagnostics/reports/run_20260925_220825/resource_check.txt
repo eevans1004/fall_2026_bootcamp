@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-09-25 22:08:27.167197
+Hostname: Edricks_Laptop
+Operating system: Windows
+OS version: 10.0.26200
+Machine type: AMD64
+Current user ID: not available
+Current working directory: C:\Users\tamar\Documents\TheoWAF\Cloud_Proving_Grounds\cloudfundamentals\fall_2026_bootcamp\live-server-diagnostics
