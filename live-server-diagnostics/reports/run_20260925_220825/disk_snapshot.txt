@@ -1,0 +1,14 @@
+C:/Users/tamar/Documents/TheoWAF/Cloud_Proving_Grounds/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics/diagnostics/shell/disk_snapshot.sh: line 1: i#!/usr/bin/env: No such file or directory
+DISK SNAPSHOT
+=============
+Target path: C:/Users/tamar/Documents/TheoWAF/Cloud_Proving_Grounds/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+C:              953G  201G  753G  22% /c
+
+Directory size:
+32K	C:/Users/tamar/Documents/TheoWAF/Cloud_Proving_Grounds/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+2
